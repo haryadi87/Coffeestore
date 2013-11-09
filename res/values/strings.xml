@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">coffeestore</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="desc">Coffee store logo</string>
+    <string name="menudesc">Menu picture</string>
+    <string name="ordermenu">Order Menu</string>
+    <string name="listmenu">List Menu</string>
+    <string name="sendorder">Send order</string>
+
+    <string-array name="code1_array">
+    <item>Spring Rolls</item>
+    <item>Curry Puffs</item>
+    <item>Vegetable Curry Puffs</item>
+     <item>Satay Chicken</item>
+    <item>Thai Fish Cakes</item>
+    <item>Thai Prawn Cakes</item>
+     <item>Green Mango Salad</item>
+    <item>Tom Yum Prawn Soup</item>
+    <item>Tom Ka Chicken Soup </item>
+     <item>Glass Noodle Soup with Chicken </item>
+
+    </string-array>
+    
+</resources>

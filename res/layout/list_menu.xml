@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+	  
+	<ImageView 
+	    android:id="@+id/listmenuimage"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:src="@drawable/menuimage"
+	    android:contentDescription="@string/menudesc"/>
+	
+	<TextView 
+	    android:id="@+id/listfooddesc"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@+id/listfooddesc"
+	    android:textSize="20sp"/>
+
+</LinearLayout> 
